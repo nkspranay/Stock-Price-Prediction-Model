@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Trained ML models
+*.pkl
+
+# Local datasets (can be regenerated)
+raw_data.csv
+cleaned_data.csv
+
+# OS junk
+.DS_Store
+Thumbs.db
